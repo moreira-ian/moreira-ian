@@ -1,16 +1,22 @@
-### Hi there 👋
-
+### Hi, 👋
+### I'm Ian Moreira 
 <!--
 **moreira-ian/moreira-ian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+<hr/>
+
+**Graduated in Information Technology Management, enthusiastic about new technologies, always in search of new knowledge.**
+
+<br/>
+
+- :earth_americas: &nbsp; I'm from Goiânia, GO - Brazil.
+- :office: &nbsp; Currently, I work as a systems analyst Jr.
+- :rocket: &nbsp; Currently learning React, React-Native and Node Js, 
+- :guitar: &nbsp; I'm like play bass.
+
+<hr/>
+
+### How to reach me 📫 
+<br/>
+
+

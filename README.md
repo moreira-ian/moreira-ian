@@ -10,7 +10,7 @@
 <br/>
 
 - :earth_americas: &nbsp; I'm from Goiânia, GO - Brazil.
-- :office: &nbsp; Currently, I work as a systems analyst Jr.
+- :office: &nbsp; Currently, I work as a systems analyst.
 - :rocket: &nbsp; Currently learning React, React-Native and Node Js, 
 - :guitar: &nbsp; I'm like play bass.
 
